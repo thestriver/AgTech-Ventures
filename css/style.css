@@ -1,0 +1,31 @@
+
+#logo img {
+   margin: 0 auto !important;
+   padding-top: 170px;
+   padding-bottom: 40px;
+   
+
+}
+
+#logo p {
+    
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9em;
+    padding-bottom: 20px;
+    color: green;
+    
+}
+
+#logo a {
+	color: green;
+}
+
+.btn {
+ background-color: white;
+border-color: green;
+}
+
+.btn:hover {
+    background-color:rgba(37,165,82,1);
+}
